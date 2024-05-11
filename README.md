@@ -33,3 +33,5 @@ result = less_than_equal_three(original_array)
 
 print("Изначальный массив:", original_array)
 print("Отфильтрованный массив:", result)
+
+
