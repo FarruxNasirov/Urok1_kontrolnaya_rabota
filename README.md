@@ -22,3 +22,6 @@ print("Отфильтрованный массив:", result)
 
 > ![image answer in terminal](photo_2024-05-08_22-54-06.jpg)
 
+Блок-схема алгоритма:
+  
+> ![Block-diagram](Urok1_kontrolnaya_rabota.jpg)
