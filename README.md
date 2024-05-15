@@ -24,7 +24,7 @@ print("Отфильтрованный массив:", result)
 
 Блок-схема алгоритма:
   
-> ![Block-diagram](Urok1_kontrolnaya_rabota.jpg)
+> ![Block-diagram](dzdiagram.jpg)
 
 Начало: Старт работы функции.
 Инициализация пустого массива: Создаем пустой массив filtered_array.
